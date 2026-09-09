@@ -1,5 +1,5 @@
 # Milestone 2 Group 3
-Milestone 2 for the Python for Data and AI Bootcamp with Uplift Codecamp
+Milestone 2 for the Python for Data and AI Bootcamp with Uplift Codecamp/n
 Prepared by Arvin, Erika, Chaim, Nathan
 
 ## Mapping the Philippine Restaurant Landscape: Food-Type Diversity, Customer Engagement, and the Distribution of Restaurant Listings Across Selected Cities
